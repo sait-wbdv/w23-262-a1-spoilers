@@ -1,7 +1,7 @@
 # CPNT 262 - Vanilla Javascript
 ## Assignment 1 - Before and After
 - Author: Tony Grimes
-- [Live demo]()
+- [Live demo](https://sait-wbdv.github.io/w23-262-a1-spoilers/)
 
 ## Attributions
 - MDN: 
